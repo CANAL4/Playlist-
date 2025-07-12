@@ -1,3 +1,3 @@
-#EXTM3U
-#EXTINF:-1,Français TV Channel
-https://fran%C3%A7ais.tvchannel.m3u8
+EXTM3U
+#EXTINF:-1 tvg-id="francais" tvg-name="Français TV Channel" tvg-logo="" group-title="French",Français TV Channel
+https://français.tvchannel.m3u8
