@@ -1,3 +1,2 @@
 EXTM3U
-#EXTINF:-1 tvg-id="francais" tvg-name="Français TV Channel" tvg-logo="" group-title="French",Français TV Channel
-https://français.tvchannel.m3u8
+#EXTINF:https://vdo3.pro-fhi.net:3173/live/cwnxpjnjlive.m3u8
