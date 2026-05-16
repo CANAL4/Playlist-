@@ -1,7 +1,10 @@
 # Canal 4 - Régie Officielle
 
 Bienvenue sur le dépôt GitHub officiel de **Canal 4**. 
-Ce espace est utilisé pour la gestion et la mise à jour automatique des flux de diffusion de la chaîne.
+Cet espace est utilisé pour la gestion et la mise à jour automatique des flux de diffusion de la chaîne.
+
+## Liens Utiles :
+* **[Clique ici pour voir le Programme TV de Canal 4](https://urlz.fr/e08M)** 📺
 
 ## Contenu du projet :
 * **Tv fr** : Playlist m3u pour les flux de diffusion principaux.
