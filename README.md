@@ -1,13 +1,3 @@
-# Canal 4 - Régie Officielle
-
-Bienvenue sur le dépôt GitHub officiel de **Canal 4**. 
-Cet espace est utilisé pour la gestion et la mise à jour automatique des flux de diffusion de la chaîne.
-
-## Liens Utiles :
-* **[Clique ici pour voir le Programme TV de Canal 4](https://urlz.fr/e08M)** 📺
-
-## Contenu du projet :
-* **Tv fr** : Playlist m3u pour les flux de diffusion principaux.
-* **Tv fr international** : Playlist m3u pour la diffusion internationale.
-
-*Serveur actif et mis à jour automatiquement par le robot de régie.*
+#EXTM3U
+#EXTINF:-1 tvg-name="CANAL 4" group-title="Haïti",CANAL 4
+https://vdo2.pro-fhi.net:3290/live/grfoywfflive.m3u8
